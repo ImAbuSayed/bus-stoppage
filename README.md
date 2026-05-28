@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bus-stoppage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Bus Stoppage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bus-stoppage/) |
+| **Get License** | [License this song: Bus Stoppage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bus-stoppage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fe06f2cc404bfb349c96568a7ae37cbee8ad9a79905e08b3b3ee9ab237ef3708` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
