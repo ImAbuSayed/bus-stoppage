@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bus-stoppage/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bus Stoppage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bus-stoppage/) |
+| **Get License** | [Get a Licensing Quote for Bus Stoppage](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bus-stoppage/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই বাস স্টপেজে খুঁজছি তোমার ছায়া
+> নিঝুম রাতের অন্ধকারে বাড়ছে শুধু মায়া
+> ধুলোমাখা এই শহরেতে তুমি আমার আলো
+> নেশা ভরা এই চোখের দিকে একটু তাকাও ভালো
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
